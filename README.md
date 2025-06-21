@@ -58,8 +58,8 @@ Bot ini dibuat untuk membantu **farming jam tayang YouTube** secara otomatis men
 
 ### 1. Clone Repo & Install Dependency
 ```bash
-git clone https://github.com/username/yt-watchbot.git
-cd yt-watchbot
+git clone https://github.com/reza-yt/bot-jam-tayang-premium
+cd bot-jam-tayang-premium
 npm install playwright axios csv-writer
 ```
 
